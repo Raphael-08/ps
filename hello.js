@@ -1,5 +1,5 @@
 const HTMLPreElement = "hemanth!";
 
-const func = (text) => console.log("hello "+HTMLPreElement)
+const func = (text) => console.log("hello "+text)
 
-func()
+func(HTMLPreElement)
